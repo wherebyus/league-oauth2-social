@@ -1,6 +1,6 @@
 {
-    "name": "schedula/league-oauth2-social",
-    "description": "The missing social authentication for thephpleague/oauth2-server",
+    "name": "wherebyus/league-oauth2-social",
+    "description": "The missing social authentication for thephpleague/oauth2-server, adapted from schedula/league-oauth2-social",
     "license": "MIT",
     "keywords": ["oauth2 social login", "league oauth2 social login integration"],
     "authors": [
